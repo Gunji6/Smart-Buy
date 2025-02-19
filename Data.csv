@@ -1,0 +1,697 @@
+,brand,capacity,types,speed ,color,rating,price,warranty
+0,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+1,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+2,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+3,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+4,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+5,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+6,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+7,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+8,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+9,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+10,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+11,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+12,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+13,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+14,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+15,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+16,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+17,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+18,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+19,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+20,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+21,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+22,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+23,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+24,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+25,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+26,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+27,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+28,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+29,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+30,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+31,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+32,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+33,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+34,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+35,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+36,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+37,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+38,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+39,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+40,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+41,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+42,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+43,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+44,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+45,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+46,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+47,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+48,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+49,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+50,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+51,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+52,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+53,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+54,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+55,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+56,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+57,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+58,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+59,Thomson,5 kg,Front Load,1400,Not Specified,4.1,"7,999",2
+60,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+61,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+62,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+63,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+64,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+65,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+66,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+67,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+68,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+69,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+70,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+71,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+72,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+73,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+74,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+75,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+76,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+77,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+78,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+79,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+80,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+81,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+82,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+83,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+84,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+85,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+86,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+87,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+88,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+89,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+90,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+91,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+92,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+93,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+94,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+95,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+96,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+97,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+98,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+99,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+100,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+101,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+102,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+103,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+104,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+105,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+106,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+107,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+108,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+109,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+110,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+111,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+112,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+113,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+114,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+115,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+116,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+117,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+118,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+119,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+120,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+121,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+122,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+123,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+124,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+125,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+126,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+127,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+128,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+129,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+130,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+131,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+132,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+133,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+134,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+135,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+136,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+137,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+138,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+139,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+140,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+141,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+142,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+143,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+144,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+145,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+146,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+147,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+148,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+149,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+150,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+151,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+152,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+153,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+154,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+155,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+156,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+157,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+158,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+159,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+160,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+161,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+162,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+163,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+164,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+165,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+166,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+167,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+168,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+169,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+170,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+171,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+172,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+173,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+174,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+175,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+176,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+177,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+178,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+179,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+180,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+181,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+182,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+183,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+184,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+185,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+186,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+187,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+188,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+189,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+190,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+191,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+192,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+193,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+194,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+195,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+196,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+197,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+198,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+199,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+200,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+201,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+202,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+203,Thomson,5 kg,Front Load,1400,Not Specified,4.1,"7,999",2
+204,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+205,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+206,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+207,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+208,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+209,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+210,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+211,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+212,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+213,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+214,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+215,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+216,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+217,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+218,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+219,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+220,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+221,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+222,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+223,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+224,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+225,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+226,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+227,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+228,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+229,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+230,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+231,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+232,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+233,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+234,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+235,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+236,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+237,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+238,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+239,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+240,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+241,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+242,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+243,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+244,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+245,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+246,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+247,realme,5 kg,Front Load,1400,Grey,4.2,"7,990",2
+248,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+249,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+250,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+251,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+252,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+253,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+254,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+255,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+256,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+257,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+258,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+259,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+260,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+261,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+262,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+263,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+264,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+265,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+266,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+267,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+268,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+269,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+270,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+271,realme,5 kg,Front Load,1400,Grey,4.2,"7,990",2
+272,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+273,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+274,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+275,Thomson,5 kg,Front Load,1400,Not Specified,4.1,"7,999",2
+276,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+277,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+278,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+279,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+280,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+281,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+282,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+283,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+284,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+285,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+286,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+287,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+288,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+289,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+290,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+291,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+292,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+293,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+294,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+295,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+296,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+297,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+298,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+299,Thomson,5 kg,Front Load,1400,Not Specified,4.1,"7,999",2
+300,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+301,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+302,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+303,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+304,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+305,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+306,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+307,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+308,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+309,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+310,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+311,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+312,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+313,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+314,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+315,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+316,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+317,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+318,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+319,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+320,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+321,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+322,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+323,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+324,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+325,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+326,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+327,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+328,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+329,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+330,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+331,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+332,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+333,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+334,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+335,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+336,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+337,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+338,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+339,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+340,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+341,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+342,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+343,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+344,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+345,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+346,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+347,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+348,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+349,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+350,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+351,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+352,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+353,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+354,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+355,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+356,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+357,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+358,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+359,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+360,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+361,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+362,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+363,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+364,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+365,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+366,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+367,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+368,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+369,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+370,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+371,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+372,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+373,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+374,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+375,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+376,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+377,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+378,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+379,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+380,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+381,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+382,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+383,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+384,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+385,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+386,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+387,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+388,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+389,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+390,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+391,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+392,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+393,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+394,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+395,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+396,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+397,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+398,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+399,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+400,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+401,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+402,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+403,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+404,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+405,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+406,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+407,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+408,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+409,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+410,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+411,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+412,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+413,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+414,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+415,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+416,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+417,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+418,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+419,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+420,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+421,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+422,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+423,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+424,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+425,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+426,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+427,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+428,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+429,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+430,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+431,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+432,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+433,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+434,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+435,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+436,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+437,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+438,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+439,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+440,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+441,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+442,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+443,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+444,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+445,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+446,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+447,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+448,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+449,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+450,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+451,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+452,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+453,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+454,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+455,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+456,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+457,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+458,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+459,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+460,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+461,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+462,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+463,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+464,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+465,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+466,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+467,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+468,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+469,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+470,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+471,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+472,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+473,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+474,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+475,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+476,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+477,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+478,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+479,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+480,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+481,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+482,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+483,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+484,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+485,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+486,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+487,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+488,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+489,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+490,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+491,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+492,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+493,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+494,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+495,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+496,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+497,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+498,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+499,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+500,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+501,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+502,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+503,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+504,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+505,realme,7 kg,Front Load,1400,Not Specified,4.2,"7,690",2
+506,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+507,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+508,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+509,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+510,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+511,realme,5 kg,Front Load,1400,Grey,4.2,"7,990",2
+512,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+513,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+514,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+515,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+516,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+517,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+518,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+519,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+520,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+521,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+522,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+523,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+524,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+525,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+526,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+527,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+528,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+529,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+530,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+531,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+532,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+533,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+534,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+535,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+536,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+537,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+538,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+539,Thomson,5 kg,Front Load,1400,Not Specified,4.1,"7,999",2
+540,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+541,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+542,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+543,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+544,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+545,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+546,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+547,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+548,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+549,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+550,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+551,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+552,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+553,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+554,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+555,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+556,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+557,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+558,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+559,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+560,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+561,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+562,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+563,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+564,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+565,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+566,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+567,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+568,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+569,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+570,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+571,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+572,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+573,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+574,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+575,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+576,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+577,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+578,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+579,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+580,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+581,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+582,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+583,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+584,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+585,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+586,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+587,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+588,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+589,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+590,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+591,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+592,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+593,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+594,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+595,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+596,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+597,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+598,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+599,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+600,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+601,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+602,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+603,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+604,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+605,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+606,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+607,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+608,SAMSUNG,7 kg,Top Load,700,Grey,4.3,"17,990",3
+609,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+610,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+611,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+612,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+613,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+614,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+615,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+616,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+617,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+618,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+619,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+620,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+621,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+622,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+623,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
+624,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+625,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+626,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+627,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+628,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+629,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+630,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+631,realme,5 kg,Front Load,1400,Grey,4.2,"7,990",2
+632,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+633,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+634,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+635,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+636,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+637,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+638,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+639,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+640,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+641,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+642,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+643,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+644,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+645,LG,7 kg,Top Load,1350,Not Specified,4.4,"11,490",2
+646,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+647,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+648,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+649,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+650,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+651,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+652,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+653,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+654,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+655,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+656,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+657,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+658,MarQ,6 kg,Front Load,1350,Not Specified,4.2,"6,790",2
+659,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+660,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+661,SAMSUNG,8 kg,Top Load,700,Grey,4.3,"19,990",3
+662,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+663,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+664,SAMSUNG,5 kg,Front Load,1350,Grey,4.4,"9,690",3
+665,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+666,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+667,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+668,realme,5 kg,Top Load,1400,Grey,4.2,"9,690",2
+669,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+670,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+671,SAMSUNG,8 Kg,Front Load,1300,Grey,4.4,"11,490",3
+672,Haier,5 kg,Unknown,800,Not Specified,4.3,"12,790",2
+673,realme,7 kg,Top Load,1400,Not Specified,4.2,"7,690",2
+674,LG,5 kg,Unknown,1300,Not Specified,4.5,"14,490",2
+675,LG,7 kg,Unknown,740,Not Specified,4.3,"17,990",2
+676,IFB,6 kg,Unknown,1000,Not Specified,4.3000000000000185,"24,990",4
+677,IFB,7 kg,Front Load,1000,Not Specified,4.3,"27,990",4
+678,Haier,7 kg,Unknown,800,Not Specified,4.3,"14,190",2
+679,realme,5 kg,Top Load,1400,Grey,4.2,"7,990",2
+680,SAMSUNG,7 kg,Front Load,700,Grey,4.3,"17,990",3
+681,IFB,7 kg,Unknown,720,Not Specified,4.3,"18,390",4
+682,MarQ,6 kg,Top Load,1350,Not Specified,4.2,"6,790",2
+683,Thomson,5 kg,Top Load,1400,Not Specified,4.1,"7,999",2
+684,Whirlpool,5 kg,Unknown,1400,Not Specified,4.4,"13,290",4
+685,SAMSUNG,8 kg,Front Load,700,Grey,4.3,"19,990",3
+686,Haier,8 kg,Unknown,800,Not Specified,4.3,"16,990",2
+687,Haier,8 kg,Unknown,800,Not Specified,4.3,"17,490",2
+688,SAMSUNG,5 kg,Top Load,1350,Grey,4.4,"9,690",3
+689,Haier,7 kg,Unknown,13001300,Not Specified,4.3,"8,990",2
+690,IFB,7 kg,Unknown,1200,Not Specified,4.3,"28,590",4
+691,IFB,8 kg,Unknown,1200,Not Specified,4.3,"33,990",4
+692,realme,5 kg,Front Load,1400,Grey,4.2,"9,690",2
+693,LG,7 kg,Front Load,1350,Not Specified,4.4,"11,490",2
+694,IFB,8 kg,Unknown,1200,Not Specified,4.3,"32,990",4
+695,SAMSUNG,8 Kg,Top Load,1300,Grey,4.4,"11,490",3
